@@ -24,7 +24,7 @@ A security-focused notes API built with Python and FastAPI.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Matter2a/secure-notes
 cd secure-notes
 ```
 
